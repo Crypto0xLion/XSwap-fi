@@ -1,0 +1,15 @@
+{
+  "short_name": "XSwap",
+  "name": "XSwap",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#339A99",
+  "background_color": "#000000"
+}
