@@ -1191,6 +1191,14 @@
   gap: 16px;
   height: 38px;
 }
+.navbar__right-section {
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 16px;
+  height: 38px;
+}
 .navbar__wrapper {
   background-color: #000000a0;
   position: fixed;
